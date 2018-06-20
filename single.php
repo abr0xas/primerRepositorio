@@ -1,5 +1,5 @@
 <?php 
-/**/
+/*                            ddddddddddddd               */
 require 'admin/config.php';
 require 'functions.php';
 
